@@ -37,3 +37,7 @@ Feel free to reach out to me at:
 - **LinkedIn**: [[Earbaj MD Saria]](https://www.linkedin.com/in/earbaj/)
 
 Thank you for visiting my profile!
+
+## 📄 Verification File
+[Google Verification File](https://github.com/Earbaj/earbajmdsaria/blob/main/googlec2585bf17332530c.html)
+
