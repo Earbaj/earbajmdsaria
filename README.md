@@ -26,6 +26,12 @@ Here are some of the projects I’ve worked on:
 ### [Project Title 3](link-to-your-project)
 *Short description of what the project is about, the technologies used, and what your role was.*
 
+## 📂 Packages
+Here are some of the packages I’ve worked on:
+### [custom_scaffold]
+*A customizable Scaffold widget for Flutter with support for dark/light themes, background images, floating action buttons, and a flexible layout. This package allows you to create beautiful app screens with ease!.*
+* Link: [Custome Scaffold](https://pub.dev/packages/custom_scaffold)
+
 ## 🌟 Skills
 - **Languages**: [List of programming languages you know]
 - **Frameworks**: [List of frameworks you’re familiar with]
